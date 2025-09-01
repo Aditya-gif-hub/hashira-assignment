@@ -1,4 +1,8 @@
 # Hashira Placements Assignment - Shamir Secret Sharing
+Test Case 1 - 3
+Test Case 2- -6290016743746469796
+
+
 
 ## Problem Description
 This assignment implements Shamir's Secret Sharing scheme to reconstruct a polynomial and find its constant term (the secret). 
